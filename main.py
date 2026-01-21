@@ -120,5 +120,3 @@ if alarm_on:
 
 cap.release()
 cv2.destroyAllWindows()
-
-a=2
