@@ -16,5 +16,6 @@ is detected.
 - Haar Cascade Classifiers
 
 ## How to Run
-  pip install opencv-python playsound
-  python main.py
+    pip install opencv-python playsound
+    python main.py
+ 
