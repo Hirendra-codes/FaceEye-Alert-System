@@ -27,7 +27,7 @@ alarm_process = None
 alarm_started_at = None
 eyes_open_since = None
 
-print("✅ Fast & Smooth Drowsiness Detection Started")
+print("Fast & Smooth Drowsiness Detection Started")
 
 
 while True:
