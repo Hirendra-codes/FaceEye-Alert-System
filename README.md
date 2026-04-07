@@ -12,7 +12,7 @@ is detected.
 
 ## Tech Stack
 - Python.  
-- OpenCV
+- OpenCV. 
 - Haar Cascade  Classifiers
 
 ## How to Run
