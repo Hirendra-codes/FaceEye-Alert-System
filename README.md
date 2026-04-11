@@ -15,7 +15,7 @@ is detected.
 - OpenCV. 
 - Haar Cascade  Classifiers.
 
-## How to Run
+## How  to Run
     pip install opencv-python  playsound
     python main.py 
  
