@@ -13,7 +13,7 @@ is detected.
 ## Tech Stack
 - Python.  
 - OpenCV. 
-- Haar Cascade  Classifiers.
+- Haar Cascade Classifiers.
 
 ## How  to Run
     pip install opencv-python  playsound
