@@ -5,7 +5,7 @@ is detected.
 
 ## Features
 - Real-time face detection
-- Eye detection using Haar Cascade classifiers
+- Eye detection using Haar  Cascade classifiers
 - Alarm alert on prolonged eye closure
 - Lightweight and easy to run
 
