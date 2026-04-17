@@ -8,7 +8,7 @@ is detected.
 - Eye detection using Haar Cascade classifiers
 - Alarm alert on prolonged eye closure
 - Lightweight and easy to run
-
+  
 ## Tech Stack
 - Python.  
 - OpenCV. 
