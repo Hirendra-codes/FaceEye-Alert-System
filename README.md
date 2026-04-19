@@ -10,7 +10,7 @@ is detected.
 - Lightweight and easy to run  
   
 ## Tech Stack
-- Python.  
+- Python.   
 - OpenCV. 
 - Haar Cascade Classifiers.  
 
