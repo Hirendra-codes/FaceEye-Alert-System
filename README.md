@@ -9,7 +9,7 @@ is detected.
 - Alarm alert on prolonged eye closure
 - Lightweight and easy to run  
   
-## Tech Stack 
+## Tech Stack  
 - Python.   
 - OpenCV. 
 - Haar Cascade Classifiers.  
