@@ -18,5 +18,5 @@ is detected.
     pip install opencv-python playsound
     python main.py   
  
-
+ 
   
