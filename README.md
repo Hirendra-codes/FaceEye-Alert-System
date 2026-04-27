@@ -4,7 +4,7 @@ faces and eyes in real time and  trigger        an alert when prolonged eye  clo
 is detected.      
          
 ## Features  
-- Real-time face detection
+- Real-time face detection 
 - Eye detection using Haar Cascade classifiers
 - Alarm alert on prolonged eye closure
 - Lightweight and easy to run  
