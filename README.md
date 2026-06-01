@@ -16,7 +16,7 @@ is detected.
 
 ## How to Run
     pip install opencv-python playsound
-    python main.py        
+    python main.py         
                                         
                                                      
                                            
